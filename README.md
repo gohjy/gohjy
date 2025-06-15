@@ -1,4 +1,5 @@
-Coder
+# Hi, I'm gohjy!
+Hi, I'm gohjy, aka 11gohjy! I do simple HTML/CSS/JS coding and the occasional bit of Python. 
 
 <!--
 **gohjy/gohjy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
