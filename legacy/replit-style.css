@@ -1,0 +1,70 @@
+@import "https://fonts.googleapis.com/css2?family=IBM+Plex+Sans";
+
+:root {
+	--header-height: 45px;
+}
+
+h1, h2, h3, h4, h5, h6, p, img, iframe {
+	display: block;
+}
+
+body, * {
+	font-family: "IBM Plex Sans";
+}
+
+#header-bar {
+	position: fixed;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	z-index: 1000;
+	height: var(--header-height);
+	width: 100%;
+	border-bottom: 1px solid black;
+	background: #FFFFFF;
+	display: block;
+}
+
+body:before {
+	content: " ";
+	display: block;
+	height: var(--header-height);
+}
+
+/*.page-options {
+	content: " ";
+	display: inline-block;
+	height: var(--header-height);
+	background-image: url("/logo.jpeg");
+	background-repeat: no-repeat;
+	background-size: auto var(--header-height);
+}*/
+
+.header-link, #header-bar a {
+	height: var(--header-height);
+	text-align: center;
+  position: relative;
+  -ms-transform: translateY(-45%);
+  -webkit-transform: translateY(-45%);
+  transform: translateY(-45%);
+}
+
+img {
+	max-height: 100%;
+	max-width: 100%;
+}
+
+/*.replit-options-dropdown-btn {
+	width: var(--header-height);
+	height: var(--header-height);
+	content: "&#8964;"
+}*/
+
+#header-bar * {
+	display: inline-block;
+}
+
+a {
+	color: blue;
+	text-decoration: underline;
+}
