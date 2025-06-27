@@ -1,6 +1,6 @@
 # Hi, I'm gohjy!
 Hi, I'm gohjy, aka 11gohjy! I do simple HTML/CSS/JS coding and the occasional bit of Python. 
-I enjoy collaborating with friends and do quite a few [projects related to my school](https://github.com/search?q=owner%3Agohjy%20topic%3Anus-high&type=repositories) as well.
+I enjoy collaborating with friends and do quite a few [projects related to my school](https://github.com/search?q=owner%3Agohjy+topic%3Anus-high+is%3Apublic&type=repositories) as well.
 
 Here are some of my projects:
 - [Directed](https://gohjy.github.io/directed/home), a simple redirect service that prevents [URL-change phishing attacks](https://www.iamstobbs.com/insights/you-spelled-it-wrong-exploring-typo-domains).
